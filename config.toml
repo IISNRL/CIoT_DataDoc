@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://iisnrl.github.io/CIoT_DataDoc/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "mainroad"
