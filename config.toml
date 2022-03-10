@@ -1,16 +1,17 @@
 baseURL = 'https://iisnrl.github.io/CIoT_DataDoc/'
-languageCode = "en-US"
-defaultContentLanguage = "en"
+#languageCode = "en-US"
+languageCode = "zh"
+defaultContentLanguage = "zh"
 
-title = 'My New Hugo Site'
+title = 'CIoT DataDoc'
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  editURL = "https://github.com/IISNRL/CIoT_DataDoc/tree/main/content/"
   description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
+  author = "Ling-Jyh Chen"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
@@ -33,7 +34,7 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/IISNRL/CIoT_DataDoc"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -62,7 +63,7 @@ landingPageName = "<i class='fas fa-home'></i> 首頁"
 [[Languages.zh.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/IISNRL/CIoT_DataDoc"
 weight = 10
 
 [[Languages.zh.menu.shortcuts]]
