@@ -3,10 +3,10 @@
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta name=generator content="Hugo 0.93.0">
-<meta name=description content="Documentation for Hugo Learn Theme">
+<meta name=description content="測站屬性分群 (clustering, DWT, FFT, Wavelet)">
 <meta name=author content="Mathieu Cornic">
 <link rel=icon href=/CIoT_DataDoc/images/favicon.png type=image/png>
-<title>資料取用 :: Hugo 主题的 Learn 文档</title><link href=/CIoT_DataDoc/css/nucleus.css?1646932270 rel=stylesheet>
+<title>測站屬性分群 (clustering, DWT, FFT, Wavelet) :: Hugo 主题的 Learn 文档</title><link href=/CIoT_DataDoc/css/nucleus.css?1646932270 rel=stylesheet>
 <link href=/CIoT_DataDoc/css/fontawesome-all.min.css?1646932270 rel=stylesheet>
 <link href=/CIoT_DataDoc/css/hybrid.css?1646932270 rel=stylesheet>
 <link href=/CIoT_DataDoc/css/featherlight.min.css?1646932270 rel=stylesheet>
@@ -17,7 +17,7 @@
 <link href=/CIoT_DataDoc/css/tabs.css?1646932270 rel=stylesheet>
 <link href=/CIoT_DataDoc/css/hugo-theme.css?1646932270 rel=stylesheet>
 <script src=/CIoT_DataDoc/js/jquery-3.3.1.min.js?1646932270></script>
-<style>:root #header+#content>#left>#rlblock_left{display:none!important}</style></head><body data-url=/CIoT_DataDoc/zh/ch2/>
+<style>:root #header+#content>#left>#rlblock_left{display:none!important}</style></head><body data-url=/CIoT_DataDoc/zh/ch3/ch3_3/>
 <nav id=sidebar class=showVisitedLinks>
 <div id=header-wrapper>
 <div id=header>
@@ -42,9 +42,7 @@
 <b>1. </b>基本介紹
 <i class="fas fa-check read-icon"></i>
 </a>
-</li><li data-nav-id=/CIoT_DataDoc/zh/ch2/ title=資料取用 class="dd-item
-parent
-active">
+</li><li data-nav-id=/CIoT_DataDoc/zh/ch2/ title=資料取用 class=dd-item>
 <a href=/CIoT_DataDoc/zh/ch2/>
 <b>2. </b>資料取用
 <i class="fas fa-check read-icon"></i>
@@ -60,7 +58,8 @@ active">
 存取特定時空條件的資料
 <i class="fas fa-check read-icon"></i>
 </a>
-</li></ul></li><li data-nav-id=/CIoT_DataDoc/zh/ch3/ title=時間維度資料分析 class=dd-item>
+</li></ul></li><li data-nav-id=/CIoT_DataDoc/zh/ch3/ title=時間維度資料分析 class="dd-item
+parent">
 <a href=/CIoT_DataDoc/zh/ch3/>
 <b>3. </b>時間維度資料分析
 <i class="fas fa-check read-icon"></i>
@@ -76,7 +75,9 @@ active">
 資料預測 (data forecast)
 <i class="fas fa-check read-icon"></i>
 </a>
-</li><li data-nav-id=/CIoT_DataDoc/zh/ch3/ch3_3/ title="測站屬性分群 (clustering, DWT, FFT, Wavelet)" class=dd-item>
+</li><li data-nav-id=/CIoT_DataDoc/zh/ch3/ch3_3/ title="測站屬性分群 (clustering, DWT, FFT, Wavelet)" class="dd-item
+parent
+active">
 <a href=/CIoT_DataDoc/zh/ch3/ch3_3/>
 測站屬性分群 (clustering, DWT, FFT, Wavelet)
 <i class="fas fa-check read-icon"></i>
@@ -98,7 +99,7 @@ active">
 <a class=padding>
 <i class="fas fa-language fa-fw"></i>
 <div class=select-style>
-<select id=select-language onchange="location=this.value"><option id=zh value=https://iisnrl.github.io/CIoT_DataDoc/zh/ch2/ selected>中文</option></select><svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255"><g><g id="arrow-drop-down"><polygon points="0,63.75 127.5,191.25 255,63.75"/></g></g></svg>
+<select id=select-language onchange="location=this.value"><option id=zh value=https://iisnrl.github.io/CIoT_DataDoc/zh/ch3/ch3_3/ selected>中文</option></select><svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255"><g><g id="arrow-drop-down"><polygon points="0,63.75 127.5,191.25 255,63.75"/></g></g></svg>
 </div></a>
 </li><li><a class=padding href=# data-clear-history-toggle><i class="fas fa-history fa-fw"></i> Clear History</a></li></ul></section><section id=footer>
 <p>Built with <a href=https://github.com/matcornic/hugo-theme-learn><i class="fas fa-heart"></i></a> from <a href=https://getgrav.org>Grav</a> and <a href=https://gohugo.io/>Hugo</a></p></section></div></nav><section id=body>
@@ -106,7 +107,7 @@ active">
 <div>
 <div id=top-bar>
 <div id=top-github-link>
-<a class=github-link title="Edit this page" href=https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/ch2/_index.zh.md target=blank>
+<a class=github-link title="Edit this page" href=https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/ch3/ch3_3/_index.zh.md target=blank>
 <i class="fas fa-code-branch"></i>
 <span id=top-github-link-text>Edit this page</span>
 </a>
@@ -116,23 +117,23 @@ active">
 <i class="fas fa-bars"></i>
 </a>
 </span>
+<span id=toc-menu><i class="fas fa-list-alt"></i></span>
 <span class=links>
-<a href=/CIoT_DataDoc/zh/>Hello World</a> > 資料取用
+<a href=/CIoT_DataDoc/zh/>Hello World</a> > <a href=/CIoT_DataDoc/zh/ch3/>時間維度資料分析</a> > 測站屬性分群 (clustering, DWT, FFT, Wavelet)
 </span>
-</div></div></div><div id=head-tags>
-</div><div id=chapter>
-<div id=body-inner>
-<h1 id=資料取用>資料取用</h1><ol>
-<li>基本資料存取方法
+</div><div class=progress>
+<div class=wrapper>
+<nav id=TableOfContents>
 <ul>
-<li>獲取最新單一測站資料</li><li>獲取最新所有測站資料</li><li>獲取所有測站列表</li><li>資料匯入／匯出、製做不同圖表 (chart, maps) 與不同格式 PNG/JPEG/NetCDF
-<ul>
-<li><a href=https://towardsdatascience.com/read-netcdf-data-with-python-901f7ff61648>Read NetCDF Data with Python. Access a slightly confusing, yet… | by Konrad Hafen | Towards Data Science</a></li></ul></li></ul></li><li>存取特定時空條件的資料
-<ul>
-<li>獲取特定時間資料</li><li>尋找最鄰近的測站資料</li><li>獲取特定地理區域資料</li><li>資料匯入／匯出、製做不同圖表 (chart, maps) 與不同格式 PNG/JPEG/NetCDF</li></ul></li></ol><footer class=footline>
-</footer></div></div></div><div id=navigation>
-<a class="nav nav-prev" href=/CIoT_DataDoc/zh/ch1/ title=基本介紹> <i class="fa fa-chevron-left"></i></a>
-<a class="nav nav-next" href=/CIoT_DataDoc/zh/ch2/ch2_1/ title=基本資料存取方法 style=margin-right:0><i class="fa fa-chevron-right"></i></a>
+<li><a href=#測站屬性分群-clustering-dwt-fft-wavelet>測站屬性分群 (clustering, DWT, FFT, Wavelet)</a></li></ul></nav></div></div></div></div><div id=head-tags>
+</div><div id=body-inner>
+<h1>
+測站屬性分群 (clustering, DWT, FFT, Wavelet)
+</h1><h2 id=測站屬性分群-clustering-dwt-fft-wavelet>測站屬性分群 (clustering, DWT, FFT, Wavelet)</h2><ul>
+<li><a href=https://towardsdatascience.com/time-series-clustering-deriving-trends-and-archetypes-from-sequential-data-bb87783312b4>Time Series Clustering — Deriving Trends and Archetypes from Sequential Data | by Denyse | Towards Data Science</a></li><li><a href=https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3>How to Apply K-means Clustering to Time Series Data | by Alexandra Amidon | Towards Data Science</a></li><li><a href=https://towardsdatascience.com/fast-fourier-transform-937926e591cb>Fast Fourier Transform. How to implement the Fast Fourier… | by Cory Maklin | Towards Data Science</a></li><li><a href=https://github.com/PyWavelets/pywt>PyWavelets/pywt: PyWavelets - Wavelet Transforms in Python</a></li></ul><footer class=footline>
+</footer></div></div><div id=navigation>
+<a class="nav nav-prev" href=/CIoT_DataDoc/zh/ch3/ch3_2/ title="資料預測 (data forecast)"> <i class="fa fa-chevron-left"></i></a>
+<a class="nav nav-next" href=/CIoT_DataDoc/zh/ch3/ch3_1/ title=時間序列處理 style=margin-right:0><i class="fa fa-chevron-right"></i></a>
 </div></section><div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
 <div style=border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px></div></div><script src=/CIoT_DataDoc/js/clipboard.min.js?1646932270></script>
 <script src=/CIoT_DataDoc/js/perfect-scrollbar.min.js?1646932270></script>
