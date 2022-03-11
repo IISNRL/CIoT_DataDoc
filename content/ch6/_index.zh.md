@@ -7,7 +7,6 @@ chapter: true
 
 ## 系統整合應用
 
-{{% notice note %}}
 
 1. QGIS
 2. Tableau  
@@ -18,7 +17,6 @@ chapter: true
 - Streamlit
     - [Streamlit for Geospatial](https://streamlit.geemap.org/)
     - https://github.com/giswqs/streamlit-geospatial
-{{% /notice %}}
 
 {{% children description="true" %}}
 

@@ -7,7 +7,6 @@ chapter: true
 
 ## 空間維度資料分析
 
-{{% notice note %}}
 
 1. 空間篩選
     - 行政區
@@ -21,6 +20,5 @@ chapter: true
     - 其他視覺化 & export
 3. leafmap
 
-{{% /notice %}}
 
 {{% children description="true" %}}
