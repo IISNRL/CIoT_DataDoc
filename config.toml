@@ -90,12 +90,17 @@ url = "/credits"
 weight = 30
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 難度等級"
-url = "/levels"
+name = "<i class='fas fa-fw fa-bullhorn'></i> 按照難度等級查詢"
+url = "/zh/levels"
 weight = 100
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 標籤"
-url = "/tags"
+name = "<i class='fas fa-fw fa-bullhorn'></i> 按照文章標籤查詢"
+url = "/zh/tags"
 weight = 110
+
+[[Languages.zh.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> 按照文章作者查詢"
+url = "/zh/author"
+weight = 120
 
