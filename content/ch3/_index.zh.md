@@ -7,7 +7,7 @@ chapter: true
 
 ## 時間維度資料分析
 
-{{% notice 章節內容 %}}
+{{% notice note %}}
 
 1. 時間序列處理
     - 週期性分析

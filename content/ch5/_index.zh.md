@@ -7,7 +7,7 @@ chapter: true
 
 ## 資料應用
 
-{{% notice 章節內容 %}}
+{{% notice note %}}
 
 1. 機器學習初探
     - [Your First Machine Learning Project in Python | by Ibrahim Saidi | Jan, 2022 | Medium](https://ibrahimsaidi.com.au/your-first-machine-learning-project-in-python-e3b90170ae41)

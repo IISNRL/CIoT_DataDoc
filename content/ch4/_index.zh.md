@@ -7,7 +7,7 @@ chapter: true
 
 ## 空間維度資料分析
 
-{{% notice 章節內容 %}}
+{{% notice note %}}
 
 1. 空間篩選
     - 行政區

@@ -7,6 +7,8 @@ chapter: true
 
 ## 基本介紹
 
+{{% notice note %}}
+
 1. 民生公共物聯網與資料平台介紹
 2. 工具介紹
     - Python 程式語言介紹
@@ -15,3 +17,4 @@ chapter: true
         - Export/Share
         - CPU/GPU/TPU
         - Command: pip, apt-get, wget
+{{% /notice %}}

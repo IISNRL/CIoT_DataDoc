@@ -7,7 +7,7 @@ chapter: true
 
 ## 系統整合應用
 
-{{% notice 章節內容 %}}
+{{% notice note %}}
 
 1. QGIS
 2. Tableau  
