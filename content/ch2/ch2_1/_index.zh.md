@@ -2,15 +2,14 @@
 title : "基本資料存取方法"
 weight : 10
 description : "基本資料存取方法"
+tags: ["Python", "API", "水", "空", "地", "災"]
+levels: ["beginner", "intermediate", "advanced"]
+author: ["CIoT","IISNRL"]
 ---
 
 
 ## 基本資料存取方法
 
-categories: ["水", "空", "地", "災"]
-tags: ["Python", "API"]
-levels: ["beginner", "intermediate", "advanced"]
-author: ["CIoT","IISNRL"]
 
 
 - 獲取最新單一測站資料

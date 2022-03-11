@@ -2,6 +2,9 @@
 title : "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
 weight : 30
 description : "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
+tags: ["Python", "水" ]
+levels: ["advanced"]
+author: ["CIoT","IISNRL"]
 ---
 
 

@@ -2,6 +2,9 @@
 title : "時間序列處理"
 weight : 10
 description : "時間序列處理"
+tags: ["Python", "水", "空" ]
+levels: ["beginner" ]
+author: ["CIoT"]
 ---
 
 

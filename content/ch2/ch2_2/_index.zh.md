@@ -2,6 +2,9 @@
 title : "存取特定時空條件的資料"
 weight : 20
 description : "存取特定時空條件的資料"
+tags: ["Python", "API", "地", "災"]
+levels: ["intermediate", "advanced"]
+author: ["CIoT"]
 ---
 
 ## 存取特定時空條件的資料

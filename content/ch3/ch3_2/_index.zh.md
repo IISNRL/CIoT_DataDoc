@@ -2,6 +2,9 @@
 title : "資料預測 (data forecast)"
 weight :  20
 description : "資料預測 (data forecast)"
+tags: ["Python", "水", "災"]
+levels: ["intermediate"]
+author: ["IISNRL"]
 ---
 
 
