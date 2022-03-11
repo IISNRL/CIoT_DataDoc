@@ -4,7 +4,7 @@ weight : 10
 description : "基本資料存取方法"
 tags: ["Python", "API", "水", "空", "地", "災"]
 levels: ["beginner", "intermediate", "advanced"]
-author: ["CIoT","IISNRL"]
+author: ["CIoT","IISNRL","哈爸"]
 ---
 
 
