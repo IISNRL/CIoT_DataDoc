@@ -7,12 +7,3 @@ title: "Hello World"
 Hello World!
 
 Document: (https://learn.netlify.app/en/basics/)
-
-{{% row %}}
-{{% column % }}
-
-{{% /column %}}
-{{% column % }}
-
-{{% /column %}}
-{{% /row %}}
