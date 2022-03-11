@@ -6,4 +6,4 @@ title: "Hello World"
 
 Hello World!
 
-Document: (https://learn.netlify.app/en/basics/)
+Document: (https://mcshelby.github.io/hugo-theme-relearn/)
