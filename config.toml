@@ -64,7 +64,7 @@ weight = 30
 title = "Tutorial for CIoT Open Data Applications"
 weight = 3
 languageName = "中文"
-landingPageURL = "/CIoT_DataDoc/zh"
+landingPageURL = "zh/"
 landingPageName = "<i class='fas fa-home'></i> 首頁"
 
 [[Languages.zh.menu.shortcuts]]
