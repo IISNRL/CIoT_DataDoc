@@ -1,8 +1,10 @@
 ---
-title: 1. Introduction
+title: Introduction
 weight: 1
+pre: "<b>1. </b>"
+
 chapter: true
 ---
 
-## 1. Introduction
+## Introduction
 

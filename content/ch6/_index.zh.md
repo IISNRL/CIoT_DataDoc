@@ -1,11 +1,11 @@
 ---
-title: 6. 系統整合應用
+title: 系統整合應用
 weight: 6
-pre: ""
+pre: "<b>6. </b>"
 chapter: true
 ---
 
-## 6. 系統整合應用
+## 系統整合應用
 
 1. QGIS
 2. Tableau  

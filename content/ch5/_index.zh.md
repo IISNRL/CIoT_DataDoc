@@ -1,11 +1,11 @@
 ---
-title: 5. 資料應用
+title: 資料應用
 weight: 5
-pre: ""
+pre: "<b>5. </b>"
 chapter: true
 ---
 
-## 5. 資料應用
+## 資料應用
 
 1. 機器學習初探
     - [Your First Machine Learning Project in Python | by Ibrahim Saidi | Jan, 2022 | Medium](https://ibrahimsaidi.com.au/your-first-machine-learning-project-in-python-e3b90170ae41)
