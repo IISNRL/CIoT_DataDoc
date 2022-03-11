@@ -1,7 +1,7 @@
 +++
-title: 基本資料存取方法
-weight: 10
-description : "基本資料存取方法"
+title = "基本資料存取方法"
+weight = 10
+description = "基本資料存取方法"
 +++
 
 
