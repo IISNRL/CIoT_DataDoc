@@ -8,7 +8,6 @@ author: ["CIoT"]
 ---
 
 
-## 時間序列處理
 
 - 週期性分析
 - Filtering (Gaussian Processes, Kalman Filter, Moving Average)

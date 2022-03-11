@@ -7,7 +7,6 @@ levels: ["intermediate", "advanced"]
 author: ["CIoT"]
 ---
 
-## 存取特定時空條件的資料
 
 - 獲取特定時間資料
 - 尋找最鄰近的測站資料

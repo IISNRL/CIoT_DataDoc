@@ -8,7 +8,6 @@ author: ["IISNRL"]
 ---
 
 
-## 資料預測 (data forecast)
 
 - scikit-learn
 - Kats (Prophet, Holt-Winters, SARIMA, Quadratic, ...)
