@@ -20,11 +20,11 @@ defaultContentLanguageInSubdir= true
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
 
-#[taxonomies]
-#  category = "categories"
-#  tag = "tags"
-#  level = "levels"
-#  author = "author"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  level = "levels"
+  author = "author"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
