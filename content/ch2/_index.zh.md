@@ -13,6 +13,7 @@ chapter: true
     - 獲取所有測站列表
     - 資料匯入／匯出、製做不同圖表 (chart, maps) 與不同格式 PNG/JPEG/NetCDF
         - [Read NetCDF Data with Python. Access a slightly confusing, yet… | by Konrad Hafen | Towards Data Science](https://towardsdatascience.com/read-netcdf-data-with-python-901f7ff61648)
+    - 民生公共物聯網 Sensor Things API 存取方法
 2. 存取特定時空條件的資料
     - 獲取特定時間資料
     - 尋找最鄰近的測站資料
