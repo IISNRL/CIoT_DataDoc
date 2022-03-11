@@ -60,7 +60,6 @@ url = "/credits"
 weight = 30
 
 [Languages.zh]
-#title = "Hugo 主题的 Learn 文档"
 title = "Tutorial for CIoT Open Data Applications"
 weight = 3
 languageName = "中文"
@@ -72,17 +71,6 @@ name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds"
 url = "https://github.com/IISNRL/CIoT_DataDoc"
 weight = 10
-
-[[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> 展示區"
-url = "/showcase"
-weight = 11
-
-[[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Hugo 文件"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
 
 [[Languages.zh.menu.shortcuts]]
 name = "<i class='fas fa-fw fa-heartbeat'></i> 按照難度等級查詢"
