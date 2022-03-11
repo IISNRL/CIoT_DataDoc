@@ -18,4 +18,3 @@ test
         - Export/Share
         - CPU/GPU/TPU
         - Command: pip, apt-get, wget
-{{% /notice %}}
