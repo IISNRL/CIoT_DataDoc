@@ -2,10 +2,6 @@
 title : "存取特定時空條件的資料"
 weight : 20
 description : "存取特定時空條件的資料"
-categories: ["水", "災"]
-tags: ["API"]
-levels: ["intermediate", "advanced"]
-author: ["IISNRL"]
 ---
 
 ## 存取特定時空條件的資料

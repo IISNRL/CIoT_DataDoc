@@ -2,10 +2,6 @@
 title : "時間序列處理"
 weight : 10
 description : "時間序列處理"
-categories: ["空", "地", "災"]
-tags: ["Python"]
-levels: ["beginner", "intermediate"]
-author: ["CIoT"]
 ---
 
 
