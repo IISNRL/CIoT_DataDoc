@@ -5,7 +5,7 @@ pre: "<b>1. </b>"
 chapter: true
 ---
 
-## 基本介紹
+# 基本介紹
 
 {{% notice note %}}
 This is a test
