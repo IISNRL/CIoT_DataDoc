@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir= true
   customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   titleSeparator = "::"
 
-[Params.social.share]
+[params.socialshare]
   facebook = true
   linkedin = true
   twitter = true
