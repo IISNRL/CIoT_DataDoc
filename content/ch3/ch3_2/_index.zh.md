@@ -1,8 +1,12 @@
-+++
-title = "資料預測 (data forecast)"
-weight =  20
-description = "資料預測 (data forecast)"
-+++
+---
+title : "資料預測 (data forecast)"
+weight :  20
+description : "資料預測 (data forecast)"
+categories: ["空", "地"]
+tags: ["Python", "API"]
+levels: ["beginner", "advanced"]
+author: ["CIoT","IISNRL"]
+---
 
 
 ## 資料預測 (data forecast)

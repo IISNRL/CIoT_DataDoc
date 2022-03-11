@@ -1,8 +1,12 @@
-+++
-title = "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
-weight = 30
-description = "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
-+++
+---
+title : "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
+weight : 30
+description : "測站屬性分群 (clustering, DWT, FFT, Wavelet)"
+categories: ["水", "地", "災"]
+tags: ["Python"]
+levels: ["intermediate", "advanced"]
+author: ["CIoT","IISNRL"]
+---
 
 
 ## 測站屬性分群 (clustering, DWT, FFT, Wavelet)

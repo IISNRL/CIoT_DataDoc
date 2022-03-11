@@ -27,6 +27,12 @@ defaultContentLanguageInSubdir= true
   whatsapp = true
   email = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  level = "levels"
+  author = "author"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
