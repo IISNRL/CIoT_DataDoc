@@ -4,23 +4,6 @@ weight = 10
 description = "時間序列處理"
 +++
 
-{{ $title := .Title }}
-{{ $url := printf "%s" .URL | absLangURL }}
-{{ $body := print $title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }}
-<div id="sharing">
-  <a href="http://www.facebook.com/sharer.php?u={{ $url }}" class="facebook" aria-label="share on Facebook">
-    {{ partial "svg/facebook.svg" (dict "size" "32px") }}
-  </a>
-
-  <a href="http://twitter.com/share?url={{ $url }}&text={{ $title }}&via={{with .Site.Social.twitter }}{{ . }}{{ end }}" class="twitter" aria-label="share on Twitter">
-    {{ partial "svg/twitter.svg" (dict "size" "32px") }}
-  </a>
-
-  <a href="mailto:?subject=Check%20out%20{{ $title }}.&body={{ $body }}" class="twitter" aria-label="share on Email">
-    {{ partial "svg/email.svg" (dict "size" "32px") }}
-  </a>
-</div>
-
 
 ## 時間序列處理
 
