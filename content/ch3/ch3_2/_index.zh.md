@@ -1,7 +1,7 @@
 +++
-title: 資料預測 (data forecast)
-weight: 20
-description : "資料預測 (data forecast)"
+title = 資料預測 (data forecast)
+weight =  20
+description = "資料預測 (data forecast)"
 +++
 
 
