@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir= true
 
 [params]
   editURL = "https://github.com/IISNRL/CIoT_DataDoc/tree/main/content/"
-  description = "Documentation for Hugo Learn Theme"
+  description = "CIoT Open Data Application - Documentation/Learning Project"
   author = "Ling-Jyh Chen"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -25,10 +25,10 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Tutorial for CIoT Open Data Applications"
 weight = 1
 languageName = "English"
-landingPageURL = "/en"
+landingPageURL = "/CIoT_DataDoc/en"
 landingPageName = "<i class='fas fa-home'></i> Home"
 
 [[Languages.en.menu.shortcuts]]
@@ -54,10 +54,11 @@ url = "/credits"
 weight = 30
 
 [Languages.zh]
-title = "Hugo 主题的 Learn 文档"
+#title = "Hugo 主题的 Learn 文档"
+title = "Tutorial for CIoT Open Data Applications"
 weight = 3
 languageName = "中文"
-landingPageURL = "/zh"
+landingPageURL = "/CIoT_DataDoc/zh"
 landingPageName = "<i class='fas fa-home'></i> 首頁"
 
 [[Languages.zh.menu.shortcuts]]
