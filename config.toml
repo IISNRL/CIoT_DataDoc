@@ -85,22 +85,17 @@ url = "https://gohugo.io/"
 weight = 20
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 致謝"
-url = "/credits"
-weight = 30
-
-[[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 按照難度等級查詢"
+name = "<i class='fas fa-fw fa-heartbeat'></i> 按照難度等級查詢"
 url = "https://iisnrl.github.io/CIoT_DataDoc/zh/levels"
 weight = 100
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 按照文章標籤查詢"
+name = "<i class='fas fa-fw fa-tags'></i> 按照文章標籤查詢"
 url = "https://iisnrl.github.io/CIoT_DataDoc/zh/tags"
 weight = 110
 
 [[Languages.zh.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> 按照文章作者查詢"
+name = "<i class='fas fa-fw fa-users'></i> 按照文章作者查詢"
 url = "https://iisnrl.github.io/CIoT_DataDoc/zh/author"
 weight = 120
 
