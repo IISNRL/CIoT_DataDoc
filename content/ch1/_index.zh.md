@@ -3,7 +3,6 @@ title: 1. 基本介紹
 weight: 1
 pre: ""
 chapter: true
-socialshare: true
 ---
 
 ## 1. 基本介紹
