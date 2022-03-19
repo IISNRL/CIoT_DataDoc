@@ -7,6 +7,7 @@ chapter: true
 
 # 資料取用
 
+{{% notice info %}}
 1. 基本資料存取方法
     - 獲取最新單一測站資料
     - 獲取最新所有測站資料
@@ -19,6 +20,7 @@ chapter: true
     - 尋找最鄰近的測站資料
     - 獲取特定地理區域資料
     - 資料匯入／匯出、製做不同圖表 (chart, maps) 與不同格式 PNG/JPEG/NetCDF
+{{% /notice %}}
 
 
 {{% children description="true" %}}
