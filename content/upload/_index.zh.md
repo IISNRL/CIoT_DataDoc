@@ -7,6 +7,8 @@ chapter: true
 
 # 上傳文章
 
+{{% notice info %}}
+
 介紹如何上傳文章
 
 ## 其他參考資料
@@ -18,3 +20,5 @@ chapter: true
 
 哈爸 [高中生自學用 python 寫遊戲](https://docs.google.com/document/d/1FV1e1OAewULNdpsKJgNDnm100jrKAcIgDgp08GJNFsw/edit?usp=sharing)
 > 本釋出幾乎包含整個課程的所有東西，含（投影片，錄影，相關文件/素材，範例程式碼，復刻遊戲專案）
+
+{{% /notice %}}
